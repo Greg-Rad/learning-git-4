@@ -1,0 +1,19 @@
+body { 
+    font-family: 'Roboto', sans-serif;
+    background-color: gold;
+}
+.container {
+    margin: 0 auto;
+    max-width: 300px;
+    color: black;
+    
+}
+p {
+    line-height: 2;
+}
+.poetry {
+  color:blanchedalmond;
+  text-align:center;
+  box-shadow:0 0 6px black;
+  background-color: darkblue;
+}
